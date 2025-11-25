@@ -1,9 +1,12 @@
 {
-  "textures": {
-    "testTexture": {
-      "version": 1,
-      "hash": "111",
+  "textures": [
+    {
+      "id": "police",
+      "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png"
+    },
+    {
+      "id": "ambulance",
       "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png"
     }
-  }
+  ]
 }
