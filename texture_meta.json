@@ -1,12 +1,27 @@
 {
+  "textures_version": 1,
+
   "textures": [
     {
-      "id": "police",
-      "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png"
+      "id": "police_car",
+      "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png",
+      "hash": "b23f5240f4b0af60d171ae6b4a1e56d7",
+      "category": "vehicles",
+      "description": "Police car skin for LSPD"
     },
     {
-      "id": "ambulance",
-      "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png"
+      "id": "ambulance_large",
+      "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png",
+      "hash": "dd52f472ea134482b1d5c93047c3fe8f",
+      "category": "vehicles",
+      "description": "Ambulance retexture"
+    },
+    {
+      "id": "clothing_swat",
+      "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png",
+      "hash": "d1329a1b4cfd356a54ea1cc6799ab88c",
+      "category": "clothing",
+      "description": "SWAT outfit patch"
     }
   ]
 }
