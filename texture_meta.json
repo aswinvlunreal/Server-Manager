@@ -2,7 +2,7 @@
   "textures": {
     "meeting_button": {
       "version": 1,
-      "hash": "none",
+      "hash": "111",
       "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png"
     },
     "banner": {
