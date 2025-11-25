@@ -1,14 +1,9 @@
 {
   "textures": {
-    "meeting_button": {
+    "testTexture": {
       "version": 1,
       "hash": "111",
       "url": "https://raw.githubusercontent.com/aswinvlunreal/Server-Manager/main/Assets/TaskButton.png"
-    },
-    "banner": {
-      "version": 1,
-      "hash": "none",
-      "url": "https://raw.githubusercontent.com/Playdroid/NewLandAssets/main/banner.png"
     }
   }
 }
