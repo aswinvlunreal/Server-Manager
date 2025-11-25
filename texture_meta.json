@@ -1,0 +1,14 @@
+{
+  "textures": {
+    "meeting_button": {
+      "version": 1,
+      "hash": "none",
+      "url": "https://raw.githubusercontent.com/Playdroid/NewLandAssets/main/meeting_button.png"
+    },
+    "banner": {
+      "version": 1,
+      "hash": "none",
+      "url": "https://raw.githubusercontent.com/Playdroid/NewLandAssets/main/banner.png"
+    }
+  }
+}
